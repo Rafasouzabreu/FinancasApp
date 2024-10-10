@@ -1,0 +1,71 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = FinancasApp.WEB
+build_property.RootNamespace = FinancasApp.WEB
+build_property.ProjectDir = C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.WEB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.WEB
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/Pages/AutenticarUsuario.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0ZW50aWNhclVzdWFyaW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/Pages/CadastrarCategorias.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cmFyQ2F0ZWdvcmlhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/Pages/CadastrarContas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cmFyQ29udGFzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/Pages/ConsultarCategorias.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc3VsdGFyQ2F0ZWdvcmlhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/Pages/ConsultarContas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc3VsdGFyQ29udGFzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/Pages/CriarUsuario.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JpYXJVc3VhcmlvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/Pages/EditarCategorias.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyQ2F0ZWdvcmlhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/Pages/EditarContas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyQ29udGFzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-n5xfpsse59
+
+[C:/CSharp_TQ_Noite_2024/FinancasApp/FinancasApp.WEB/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-oqd78ungq1

@@ -1,0 +1,17 @@
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\bin\Debug\net8.0\FinancasApp.Infra.Data.deps.json
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\bin\Debug\net8.0\FinancasApp.Infra.Data.dll
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\bin\Debug\net8.0\FinancasApp.Infra.Data.pdb
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\bin\Debug\net8.0\FinancasApp.Domain.dll
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\bin\Debug\net8.0\FinancasApp.Domain.pdb
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\FinancasApp.Infra.Data.csproj.AssemblyReference.cache
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\FinancasApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\FinancasApp.Infra.Data.AssemblyInfoInputs.cache
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\FinancasApp.Infra.Data.AssemblyInfo.cs
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\FinancasApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\FinancasApp.Infra.Data.csproj.CopyComplete
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\FinancasApp.Infra.Data.dll
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\refint\FinancasApp.Infra.Data.dll
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\FinancasApp.Infra.Data.pdb
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\ref\FinancasApp.Infra.Data.dll
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\bin\Debug\net8.0\FinancasApp.Infra.Data.runtimeconfig.json
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Infra.Data\obj\Debug\net8.0\FinancasApp.Infra.Data.genruntimeconfig.cache

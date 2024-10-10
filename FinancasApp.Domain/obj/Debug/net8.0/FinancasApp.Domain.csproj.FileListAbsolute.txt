@@ -1,0 +1,11 @@
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\bin\Debug\net8.0\FinancasApp.Domain.deps.json
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\bin\Debug\net8.0\FinancasApp.Domain.dll
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\bin\Debug\net8.0\FinancasApp.Domain.pdb
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\obj\Debug\net8.0\FinancasApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\obj\Debug\net8.0\FinancasApp.Domain.AssemblyInfoInputs.cache
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\obj\Debug\net8.0\FinancasApp.Domain.AssemblyInfo.cs
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\obj\Debug\net8.0\FinancasApp.Domain.csproj.CoreCompileInputs.cache
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\obj\Debug\net8.0\FinancasApp.Domain.dll
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\obj\Debug\net8.0\refint\FinancasApp.Domain.dll
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\obj\Debug\net8.0\FinancasApp.Domain.pdb
+C:\CSharp_TQ_Noite_2024\FinancasApp\FinancasApp.Domain\obj\Debug\net8.0\ref\FinancasApp.Domain.dll
